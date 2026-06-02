@@ -1,1 +1,3 @@
-# H-th-ng-ph-n-lo-i-v-ch-m-i-m-ch-t-l-ng-s-n-ph-m-tr-i-c-y
+Hệ thống chấm điểm chất lượng trái cây là một dự án ứng dụng Trí tuệ nhân tạo (AI) và học sâu (Deep Learning) để tự động đánh giá chất lượng trái cây thông qua hình ảnh. Hệ thống có khả năng nhận diện loại trái cây và phân loại chúng theo các mức chất lượng khác nhau dựa trên các đặc trưng về màu sắc, hình dạng và bề mặt.
+
+Dự án được xây dựng nhằm hỗ trợ quá trình kiểm tra chất lượng trong nông nghiệp và chuỗi cung ứng thực phẩm, giúp giảm thời gian đánh giá thủ công, tăng tính nhất quán và nâng cao hiệu quả phân loại sản phẩm. Mô hình được huấn luyện trên tập dữ liệu hình ảnh trái cây với nhiều loại và mức chất lượng khác nhau, cho phép đưa ra kết quả dự đoán nhanh chóng và chính xác.
